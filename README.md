@@ -24,13 +24,6 @@ Achieves **100.00% test accuracy** after 50 epochs — demonstrating effective l
 - Epochs: 50
 - Final test accuracy: **100.00%** (perfect separation on this small, clean dataset)
 
-Decision boundary (visualized in notebook):
-![Decision Boundary](decision_boundary.png)  
-*(Add screenshot of plot_decision_boundary output here)*
-
-Final circuit:
-![Quantum Circuit](circuit.png)  
-*(Add qc.draw('mpl') screenshot here)*
 
 ## How to Run
 1. Open in Colab:  
