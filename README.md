@@ -27,7 +27,7 @@ Achieves **100.00% test accuracy** after 50 epochs — demonstrating effective l
 
 ## How to Run
 1. Open in Colab:  
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TAM-DS/Your-Repo-Name/blob/main/Hybrid_QNN_Moons.ipynb)
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TAM-DS/Quantum-Hybrid-Moons-Classifier/blob/main/Hybrid_QNN_Moons_.ipynb)
 
 2. Install dependencies (first cell):
    ```bash
